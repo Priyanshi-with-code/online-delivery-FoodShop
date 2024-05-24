@@ -1,0 +1,1 @@
+Online Food Ordering System is proposed for simplifies the food ordering process. This System shows an user interface and update the menu with all available options so that it eases the customer work. Customer can choose more than one item to make an order and can view Order details before logging off.
